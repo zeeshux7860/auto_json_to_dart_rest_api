@@ -1,6 +1,6 @@
-# jsontodart
+# json_to_dart
 
-A new Flutter project.
+A new Flutter project. Material_X:
 
 ## Getting Started
 
